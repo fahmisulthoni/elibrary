@@ -1,2 +1,2 @@
-# apotek
-Sistem Informasi Apotek Berbasis Java GUI
+# elibrary
+Sistem Informasi Perpustakaan Berbasis Web
